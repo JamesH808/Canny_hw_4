@@ -1,0 +1,3 @@
+I successfully got the file to output the edges image and I changed the variables slightly to match the calibration that I used for my images. The only place I got stuck was getting a 
+segfault when I first ran my code but then I realized that I needed adjust the stack space allocation. After that it worked. Other than adding the for loop in the main, I believe
+that was all I did. 
